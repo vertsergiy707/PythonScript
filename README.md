@@ -1,2 +1,2 @@
 # PythonScript
- b=4 if a>b 
+ b=5 if a>b 
