@@ -1,3 +1,3 @@
 # PythonScript
-Try if ERROR
+Try if error
 w435rw3treryt
