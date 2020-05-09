@@ -1,0 +1,10 @@
+﻿1. Створити папку projectPython
+2. В папці project_python створити папку templates
+3. Створити файл mainProject.py  якому будуть всі функції і параметри
+4. В файлі mainProject.py створити параметр: --install-mysql (false) --create-database (false) --create-table (false) --dataBase-name (true)
+--table-name (true) --fileSchema (false) (--msterSlave (false)) --peoplelist(false) (people.csv) --peopleoutlist(false) (new generate file)
+--ip address --user-name --password
+5. Функції: main - логіка й перевірка (в залежності від аргументів визиває інші функціїї)
+6. Файл baseOfPeople.csv
+7. Bash script - бекапи, кронтаб.
+
